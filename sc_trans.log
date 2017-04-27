@@ -1,0 +1,94 @@
+2017-04-27 14:57:16	I	msg:<***> Logger startup
+2017-04-27 14:57:16	D	msg:<***> 
+2017-04-27 14:57:16	W	msg:[CONFIG] Invalid item on line 7
+2017-04-27 14:57:16	W	msg:[CONFIG] Invalid item on line 10
+2017-04-27 14:57:16	W	msg:[CONFIG] Invalid item on line 18
+2017-04-27 14:57:16	W	msg:[CONFIG] Invalid item on line 19
+2017-04-27 14:57:16	W	msg:[CONFIG] Invalid item on line 22
+2017-04-27 14:57:16	I	msg:***************************************************************
+2017-04-27 14:57:16	I	msg:** TRANScast Distributed Network Audio Content Provider
+2017-04-27 14:57:16	I	msg:** Copyright (C) 2000-2011 Nullsoft, Inc.  All Rights Reserved.
+2017-04-27 14:57:16	I	msg:** Use "sc_trans filename.conf" to specify a config file.
+2017-04-27 14:57:16	I	msg:***************************************************************
+2017-04-27 14:57:16	I	msg:[MAIN] TRANSCast/posix(linux x64) v2.0.0.54 (Oct  7 2011) starting...
+2017-04-27 14:57:16	I	msg:[MAIN] PID: 11304
+2017-04-27 14:57:16	I	msg:[MAIN] Loaded config from sc_trans.conf
+2017-04-27 14:57:16	I	msg:[MAIN] TimeMultiplier = 1, TimeShift = 0
+2017-04-27 14:57:16	I	msg:[VUPUSH] 0 VU images loaded for left channel
+2017-04-27 14:57:16	I	msg:[VUPUSH] 0 VU images loaded for right channel
+2017-04-27 14:57:16	I	msg:[PLAYLISTMGR] Playlist load from file example.lst
+2017-04-27 14:57:16	I	msg:[PLAYLISTMGR] Caching playlist example.lst
+2017-04-27 14:57:16	I	msg:[PLAYLISTMGR] Load complete
+2017-04-27 14:57:16	I	msg:[MAIN] Streaming thread starting
+2017-04-27 14:57:16	I	msg:[MAIN] Playlist decoder thread starting
+2017-04-27 14:57:16	I	msg:[DECODE] Giving replay gain calculator a head start
+2017-04-27 14:57:16	I	msg:[RGCALC] Thread running
+2017-04-27 14:57:16	I	msg:[DECODE] Begin decoding
+2017-04-27 14:57:16	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:16	I	msg:[SOURCERELAY] Thread starting
+2017-04-27 14:57:18	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:21	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:23	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:26	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:28	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:30	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:32	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:34	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:36	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:39	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:41	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:44	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:46	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:48	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:50	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:52	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:57:55	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:57:57	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:00	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:02	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:04	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:06	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:08	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:10	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:13	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:15	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:17	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:20	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:22	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:24	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:27	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:29	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:31	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:33	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:36	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:38	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:41	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:42	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:44	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:47	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:49	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:51	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:58:54	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:56	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:58:58	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:01	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:03	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:05	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:07	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:10	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:12	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:14	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:16	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:19	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:21	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:23	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:26	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:27	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:30	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:32	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:34	I	msg:[DECODE] Next file is /root/music/test2.mp3
+2017-04-27 14:59:36	I	msg:[DECODE] Next file is /root/music/test.mp3
+2017-04-27 14:59:37	I	msg:[MAIN] Exiting threads...
+2017-04-27 14:59:37	I	msg:[DECODE] Exiting decoder thread
+2017-04-27 14:59:38	I	msg:[RGCALC] Thread exiting
+2017-04-27 14:59:38	I	msg:<***> Logger shutdown

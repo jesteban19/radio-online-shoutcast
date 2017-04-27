@@ -1,0 +1,9 @@
+#Software: SHOUTcast
+#Version: 2.5.1.724
+#Fields: c-ip c-dns date time cs-uri-stem c-status cs(User-Agent) sc-bytes x-duration avgbandwidth
+200.4.199.12 200.4.199.12 2017-04-27 14:54:42 /stream?title=Unknown 200 VLC%2F2.2.2%20LibVLC%2F2.2.2 0 0 0
+200.4.199.12 200.4.199.12 2017-04-27 14:54:43 /stream?title=Unknown 200 NSPlayer%2F7.10.0.3059 0 0 0
+201.234.125.253 201.234.125.253 2017-04-27 14:58:29 /stream?title=Unknown 200 VLC%2F2.2.2%20LibVLC%2F2.2.2 0 0 0
+201.234.125.253 201.234.125.253 2017-04-27 14:58:29 /stream?title=Unknown 200 NSPlayer%2F7.10.0.3059 0 0 0
+201.234.125.253 201.234.125.253 2017-04-27 14:58:58 /stream?title=Unknown 200 VLC%2F2.2.2%20LibVLC%2F2.2.2 0 0 0
+201.234.125.253 201.234.125.253 2017-04-27 14:58:58 /stream?title=Unknown 200 NSPlayer%2F7.10.0.3059 0 0 0

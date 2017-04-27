@@ -1,0 +1,7 @@
+2017-04-27 14:50:27	INFO	[ADMINCGI] Rotated log file(s) [PID: 11124]
+2017-04-27 14:54:42	ERROR	[DST 200.4.199.12:34472 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:54:43	ERROR	[DST 200.4.199.12:34568 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'
+2017-04-27 14:58:29	ERROR	[DST 201.234.125.253:32869 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:58:29	ERROR	[DST 201.234.125.253:32944 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'
+2017-04-27 14:58:58	ERROR	[DST 201.234.125.253:40267 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:58:58	ERROR	[DST 201.234.125.253:40315 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'

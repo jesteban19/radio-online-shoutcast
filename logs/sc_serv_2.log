@@ -1,0 +1,37 @@
+2017-04-27 14:33:18	WARN	[CONFIG] Ignoring streampath_1=http://107.170.83.205:8000 as this will produce an invalid path.
+2017-04-27 14:33:18	WARN	[MAIN] Cannot find `/root/server/cacert.pem'
+2017-04-27 14:33:18	WARN	[MAIN] Without `cacert.pem' the DNAS may not be able to contact the Directory
+2017-04-27 14:33:18	WARN	[MAIN] The latest can be downloaded from `http://curl.haxx.se/ca/cacert.pem'
+
+2017-04-27 14:33:18	INFO	*********************<<RUNNING_IN__DAEMON_MODE>>*********************
+2017-04-27 14:33:18	INFO	**        SHOUTcast Distributed Network Audio Server (DNAS)        **
+2017-04-27 14:33:18	INFO	**    Copyright (C) 2014-2017 Radionomy SA, All Rights Reserved    **
+2017-04-27 14:33:18	INFO	*********************************************************************
+2017-04-27 14:33:18	INFO	[MAIN] SHOUTcast DNAS/posix(linux x64) v2.5.1.724 (Jan 27 2017)
+2017-04-27 14:33:18	INFO	[MAIN] PID: 11124
+2017-04-27 14:33:18	INFO	[MAIN] Saving log output to `/root/server/logs/sc_serv.log'
+2017-04-27 14:33:18	INFO	[MAIN] Automatic log rotation interval: 1 day
+2017-04-27 14:33:18	INFO	[MAIN] Loaded config from `/root/server/sc_serv.conf'
+2017-04-27 14:33:18	INFO	[MAIN] Calculated CPU count is 1 -> 2 CPUs specified to be used
+2017-04-27 14:33:18	INFO	[MAIN] Limited to 1024 file descriptors [relates to ulimit -n]
+2017-04-27 14:33:18	INFO	[MAIN] Starting 2 network threads
+2017-04-27 14:33:18	INFO	[MICROSERVER] Listening for source and client connections on port 8000
+2017-04-27 14:33:18	INFO	[MICROSERVER] Listening for legacy source connections on port 8001
+2017-04-27 14:33:18	INFO	[MICROSERVER] Flash policy file server not enabled
+2017-04-27 14:38:45	ERROR	[DST 200.4.199.12:50969 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:38:46	ERROR	[DST 200.4.199.12:51053 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'
+2017-04-27 14:38:57	ERROR	[DST 200.4.199.12:53810 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:38:57	ERROR	[DST 200.4.199.12:53876 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'
+2017-04-27 14:39:48	ERROR	[DST 200.4.199.12:5265 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:39:50	ERROR	[DST 200.4.199.12:5857 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:39:51	ERROR	[DST 200.4.199.12:6114 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:39:53	ERROR	[DST 200.4.199.12:6702 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:39:55	ERROR	[DST 200.4.199.12:7174 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:39:59	ERROR	[DST 200.4.199.12:8167 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:40:00	ERROR	[DST 200.4.199.12:8373 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:40:00	ERROR	[DST 200.4.199.12:8411 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36'
+2017-04-27 14:49:41	ERROR	[DST 200.4.199.12:19766 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:49:42	ERROR	[DST 200.4.199.12:19840 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'
+2017-04-27 14:49:55	ERROR	[DST 200.4.199.12:22906 sid=1] SHOUTcast 1 client connection rejected. Stream not available as there is no source connected. Agent: `VLC/2.2.2 LibVLC/2.2.2'
+2017-04-27 14:49:56	ERROR	[DST 200.4.199.12:22948 sid=1] HTTP client connection rejected. Stream not available as there is no source connected. Agent: `NSPlayer/7.10.0.3059'
+2017-04-27 14:50:24	INFO	[ADMINCGI] Rotating all log file(s)

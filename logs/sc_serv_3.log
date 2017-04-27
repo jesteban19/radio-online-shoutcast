@@ -1,0 +1,22 @@
+2017-04-27 14:30:40	WARN	[CONFIG] Could not find `stop' - looking for config file to load...
+2017-04-27 14:30:40	WARN	[CONFIG] Ignoring streampath_1=http://107.170.83.205:8000 as this will produce an invalid path.
+2017-04-27 14:30:40	WARN	[MAIN] Cannot find `/root/server/cacert.pem'
+2017-04-27 14:30:40	WARN	[MAIN] Without `cacert.pem' the DNAS may not be able to contact the Directory
+2017-04-27 14:30:40	WARN	[MAIN] The latest can be downloaded from `http://curl.haxx.se/ca/cacert.pem'
+
+2017-04-27 14:30:40	INFO	*********************************************************************
+2017-04-27 14:30:40	INFO	**        SHOUTcast Distributed Network Audio Server (DNAS)        **
+2017-04-27 14:30:40	INFO	**    Copyright (C) 2014-2017 Radionomy SA, All Rights Reserved    **
+2017-04-27 14:30:40	INFO	*********************************************************************
+2017-04-27 14:30:40	INFO	[MAIN] SHOUTcast DNAS/posix(linux x64) v2.5.1.724 (Jan 27 2017)
+2017-04-27 14:30:40	INFO	[MAIN] PID: 11086
+2017-04-27 14:30:40	INFO	[MAIN] Saving log output to `/root/server/logs/sc_serv.log'
+2017-04-27 14:30:40	INFO	[MAIN] Automatic log rotation interval: 1 day
+2017-04-27 14:30:40	INFO	[MAIN] Loaded config from `/root/server/sc_serv.conf'
+2017-04-27 14:30:40	INFO	[MAIN] Calculated CPU count is 1 -> 2 CPUs specified to be used
+2017-04-27 14:30:40	INFO	[MAIN] Limited to 1024 file descriptors [relates to ulimit -n]
+2017-04-27 14:30:40	INFO	[MAIN] Starting 2 network threads
+2017-04-27 14:30:40	ERROR	[MICROSERVER] Error opening port 8000 because could not bind to 8000 because address already in use
+2017-04-27 14:30:40	INFO	[MAIN] Shutdown
+
+2017-04-27 14:30:40	INFO	[MAIN] Press any key to continue . . .
